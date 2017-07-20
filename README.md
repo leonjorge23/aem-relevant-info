@@ -1,4 +1,4 @@
-AEM Info
+AEM Quick Tricks
 ========
 
 I will use this repo to add any relevant information regarding AEM for Esri.com
