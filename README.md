@@ -10,3 +10,7 @@ I will use this repo to add any relevant information regarding AEM for Esri.com
 ## How to run a clean start from the terminal
 
 `$ sudo mvn clean install -P autoInstallPackage `
+
+## Full install command
+
+`$ sudo mvn clean install -P autoInstallAssets -P autoInstallContent -P autoDeploy -P autoInstallPackage `
