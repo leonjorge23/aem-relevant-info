@@ -32,3 +32,7 @@ I will use this repo to add any relevant information regarding AEM for Esri.com
 ## Git see configurations
 
 `$ git config -l `
+
+## Delete untracked empty folders
+
+`$ git clean -fd`
